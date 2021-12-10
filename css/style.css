@@ -1146,6 +1146,7 @@ input[type=search] {
 .map-wrapper{
   width: 100%;
   position: relative;
+  height: 564px;
 }
 
 .map__info{
@@ -1201,9 +1202,6 @@ input[type=search] {
   margin-top: 40px;
 }
 
-.map-wrapper{
-  margin-bottom: 72px;
-}
 
 
 
